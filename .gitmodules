@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "lessR"]
 	path = lessR
-	url = https://github.com/cran/lessR
+	url = https://github.com/dgerbing/lessr
